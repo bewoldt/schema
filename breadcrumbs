@@ -1,0 +1,26 @@
+<p class="breadcrumbs">
+  <span class="visuallyhidden">You are here: </span>
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a itemprop="url" href="">
+      <span itemprop="title">Home</span>
+    </a>
+  </span>
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a itemprop="url" href="">
+      <span itemprop="title">Apparel</span>
+    </a>
+  </span>
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a itemprop="url" href="">
+      <span itemprop="title">Youth and Children</span>
+    </a>
+  </span>
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a itemprop="url" href="">
+      <span itemprop="title">Youth Tops</span>
+    </a>
+  </span>
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <span itemprop="title">Youth Iowa Hawkeyes T-Shirt</span>
+  </span>
+</p>
